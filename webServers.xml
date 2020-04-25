@@ -1,0 +1,81 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="62c2ed78-6994-43a5-a45d-7aff056ebe8c" name="root@192.168.3.210:22" url="http:///">
+        <fileTransfer host="192.168.3.210" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ee392515-1a62-40fc-956b-88bb5fc24285" name="root@192.168.3.210:22 (1)" url="http:///">
+        <fileTransfer host="192.168.3.210" port="22" accessType="SFTP" authAgent="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e8111ac7-04cb-4b8d-9964-275f8f53bb04" name="root@192.168.3.210:22 (2)" url="http:///">
+        <fileTransfer host="192.168.3.210" port="22" rootFolder="/root" accessType="SFTP" authAgent="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ccfc8b4c-78c8-4c31-89c3-18ef0471e342" name="root@47.101.36.250:22" url="http:///">
+        <fileTransfer host="47.101.36.250" port="22" accessType="SFTP" authAgent="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2145e083-ad64-4662-9ff2-d3796508812b" name="root@192.168.3.210:22 (3)" url="http:///">
+        <fileTransfer host="192.168.3.210" port="22" accessType="SFTP" authAgent="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="21e94e5e-306b-408d-a9aa-d35f3d63035e" name="root@192.168.3.210:22" url="http:///">
+        <fileTransfer host="192.168.3.210" port="22" accessType="SFTP" authAgent="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d3b19a6b-18bc-484d-a9be-bf47ce929919" name="root@192.168.3.210:22" url="http:///">
+        <fileTransfer host="192.168.3.210" port="22" accessType="SFTP" authAgent="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ed68102c-e159-460a-993d-7a842042789c" name="root@192.168.3.210:22" url="http:///">
+        <fileTransfer host="192.168.3.210" port="22" accessType="SFTP" authAgent="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="dc7552ef-d724-4bd5-9739-44f8b5b7d961" name="root@192.168.3.210:22" url="http:///">
+        <fileTransfer host="192.168.3.210" port="22" accessType="SFTP" authAgent="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="217ebbe6-0a09-418f-9e0a-607c1af22be7" name="root@192.168.3.210:22" url="http:///">
+        <fileTransfer host="192.168.3.210" port="22" accessType="SFTP" authAgent="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="fa992fa9-ad80-4b5a-a12c-39fcfaab1e97" name="root@47.101.36.250:22" url="http:///">
+        <fileTransfer host="47.101.36.250" port="22" accessType="SFTP" authAgent="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="7d28a288-52ee-4949-b10d-cdcaf0836daf" name="root@192.168.3.210:22" url="http:///">
+        <fileTransfer host="192.168.3.210" port="22" accessType="SFTP" authAgent="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b292d075-4fb5-4a5b-b692-35df612c4365" name="root@47.101.36.250:22" url="http:///">
+        <fileTransfer host="47.101.36.250" port="22" accessType="SFTP" authAgent="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c5272854-7268-4a18-866f-085b2ead2061" name="root@192.168.3.210:22" url="http:///">
+        <fileTransfer host="192.168.3.210" port="22" accessType="SFTP" authAgent="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c89b25f4-35cb-4331-abc6-7e727b728961" name="root@47.101.36.250:22" url="http:///">
+        <fileTransfer host="47.101.36.250" port="22" accessType="SFTP" authAgent="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
