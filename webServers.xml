@@ -76,6 +76,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="28acd86b-2ce5-4525-8850-55955ec52651" name="root@47.101.36.250:22" url="http:///">
+        <fileTransfer host="47.101.36.250" port="22" accessType="SFTP" authAgent="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
