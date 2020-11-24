@@ -69,6 +69,12 @@
     <driver id="sqlite.xerial">
       <artifact name="Xerial SQLiteJDBC" use="true" />
       <option name="auto-sync" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.25.1/license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.25.1/sqlite-jdbc-3.25.1.jar</url>
+      </library>
     </driver>
     <driver id="sqlserver.ms">
       <artifact name="SQL Server" use="true" />
@@ -110,7 +116,7 @@
       <artifact name="Snowflake" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="mongo">
+    <driver id="mongo" name="">
       <artifact name="MongoDB" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
